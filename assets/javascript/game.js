@@ -53,7 +53,7 @@ $( document ).ready(function() {
 
        	var html = "<h1>Click on a crystal to start playing!</h1>" + 
 		"<p>Number to match: " + targetNumber + "</p>" +
-		"<p>Your toal score: " + counter + "</p>" +
+		"<p>Your total score: " + counter + "</p>" +
 		"<p>Wins: " + wins + "</p>" + 
 		"<p>Losses: " + losses + "</p>";
 
