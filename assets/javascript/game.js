@@ -40,8 +40,8 @@ $( document ).ready(function() {
 		if (counter === targetNumber) {
 			wins++;
 			lockGame = true;
-			var audioLose = document.getElementById("win");
-        	audioLose.play();
+			var audiowin = document.getElementById("win");
+        	audiowin.play();
 		}
 
 		else if (counter >= targetNumber) {
